@@ -17,7 +17,7 @@ export const footerLinks: NavLink[] = [
   { label: 'Smart Touch Switches', id: 'products' },
   { label: 'Room Experience', id: 'experience' },
   { label: 'Technology & Control', id: 'technology' },
-  { label: 'Case Studies', id: 'projects' },
+  { label: 'Projects & Case Studies', id: 'projects' },
   { label: 'About Company', id: 'about' },
   { label: 'Contact & Consultation', id: 'contact' }
 ];
