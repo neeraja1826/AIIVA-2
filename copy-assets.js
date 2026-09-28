@@ -16,6 +16,10 @@ const filesToCopy = [
   { src: 'media_1790575169140.jpg', dest: path.join(prodDir, 'switch-fan-dual-socket.png') },
   { src: 'media_1790575169181.jpg', dest: path.join(prodDir, 'switch-4gang-touch.png') },
   { src: 'media_1790575169195.jpg', dest: path.join(prodDir, 'switch-fan-regulator.png') },
+  { src: 'media_1790584203210.png', dest: path.join(prodDir, 'switch-8gang-pure-touch.png') },
+  { src: 'media_1790584219206.png', dest: path.join(prodDir, 'switch-4gang-fan-touch.png') },
+  { src: 'media_1790584232435.png', dest: path.join(prodDir, 'switch-8gang-single-socket.png') },
+  { src: 'media_1790584269968.png', dest: path.join(prodDir, 'switch-8gang-fan-single-socket.png') },
 ];
 
 for (const item of filesToCopy) {

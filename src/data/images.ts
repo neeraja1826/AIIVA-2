@@ -17,7 +17,11 @@ export const images = {
   efficiency: "/caf8dccc-6b51-4e91-b519-8b967e4a5d12.jpg",
   products: {
     switch8Gang: "/images/products/switch-8touch-dual-socket.png",
-    switchFanSocket: "/images/products/switch-fan-dual-socket.png",
+    switch8GangPure: "/images/products/switch-8gang-pure-touch.png",
+    switch8GangSingleSocket: "/images/products/switch-8gang-single-socket.png",
+    switch8GangFanSingleSocket: "/images/products/switch-8gang-fan-single-socket.png",
+    switch6GangFanSocket: "/images/products/switch-fan-dual-socket.png",
+    switch4GangFan: "/images/products/switch-4gang-fan-touch.png",
     switch4Gang: "/images/products/switch-4gang-touch.png",
     fanRegulator: "/images/products/switch-fan-regulator.png"
   }
